@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010770880795",
+    "project_id": "aushoptoko-f23c0",
+    "storage_bucket": "aushoptoko-f23c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010770880795:android:cf5f95b845bec77d6acbbe",
+        "android_client_info": {
+          "package_name": "com.aushoptoko.shopping_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010770880795-qhmi9e2ro07pce0cdl8kekhcpesa8vst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1VTKjiUmzzn7DsB0z0v4rxK_qNSRJJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010770880795-qhmi9e2ro07pce0cdl8kekhcpesa8vst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
